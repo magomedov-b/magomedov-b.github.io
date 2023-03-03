@@ -1,1 +1,1 @@
-# magomedov-b.io
+# magomedov-b.github.io
