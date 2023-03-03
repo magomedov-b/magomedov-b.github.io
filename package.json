@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "magic-snowflakes": "^6.0.1"
+  },
+  "dependencies": {
+    "sass": "^1.57.1"
+  }
+}
